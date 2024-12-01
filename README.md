@@ -1,13 +1,15 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hey there, 👋 I'm Melkie!</h1>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+
 **Welcome to my corner of GitHub**,  I'm a **3nd year Information Science student**, aspiring **full-stack developer**, and someone who's always chasing the next big challenge. 🚀 I'm passionate about building impactful solutions that shape the future, whether it's through technology and innovative businesses. 
 
 I'm on a mission to **make a difference**, **learn endlessly**, and build a legacy of unique ideas. Always thinking big, always working hard, and never afraid to get my hands dirty in code or creativity, I believe that big dreams + consistent effort can reshape the world! 
 
 Let's create something amazing together! 💡
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melkien16&label=Profile%20views&color=0e75b6&style=flat" alt="melkien16" /> </p>
 
@@ -27,6 +29,8 @@ Let's create something amazing together! 💡
 
 
 ---
+
+
 
 ## 🛠️ Skills and Tools
 
