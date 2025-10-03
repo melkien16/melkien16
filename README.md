@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-**Welcome to my corner of GitHub**,  I'm a **3nd year Information Science student**, aspiring **full-stack developer**, and someone who's always chasing the next big challenge. 🚀 I'm passionate about building impactful solutions that shape the future, whether it's through technology and innovative businesses. 
+**Welcome to my corner of GitHub**,  I'm a **4th year Information Science student**, aspiring **full-stack developer**, and someone who's always chasing the next big challenge. 🚀 I'm passionate about building impactful solutions that shape the future, whether it's through technology and innovative businesses. 
 
 I'm on a mission to **make a difference**, **learn endlessly**, and build a legacy of unique ideas. Always thinking big, always working hard, and never afraid to get my hands dirty in code or creativity, I believe that big dreams + consistent effort can reshape the world! 
 
@@ -17,7 +17,7 @@ Let's create something amazing together! 💡
 
 ## 🌟 About Me
 
-- 🌱 Currently learning **React**, **Three.js**, and **Data Structure and Algorithm in Python**.
+- 🌱 Currently learning **Advanced Node Js**, **Docker**, and **Data Structure and Algorithm in Python**.
 - 👨‍💻 Focused on **full-stack web development**, advancing to **cloud computing**, and **building large-scale organizations**.
 - 🧠 Interested in **AI** and **Cloud Computing**.
 - 🎯 Committed to making history by creating unique solutions to **Make The world Better**.
