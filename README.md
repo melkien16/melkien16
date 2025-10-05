@@ -75,7 +75,7 @@ Let's create something amazing together! 💡
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/melkie-yilk-08a862297/) 
 [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=flat)](https://twitter.com/melkien_d12) 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=flat)](https://t.me/AstraOrian) 
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=flat)](https://t.me/melkien_de12) 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/melkien16) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/melkien_de12)
 
